@@ -10,9 +10,10 @@
         "/favicon.ico",
         "/index.html",
         "/main.9f5a346fd72e586465b3.js",
+        "/manifest.json",
         "/polyfills.2f4a59095805af02bd79.js",
         "/runtime.a66f828dca56eeb90e02.js",
-        "/styles.6cb5b494add6c7ed582a.css"
+        "/styles.36b83109d6509f2a1d66.css"
       ],
       "patterns": []
     },
@@ -180,11 +181,12 @@
     "/assets/js/index.js": "03cc24facc392f5b87fe56d54431944e4f08fbe2",
     "/assets/nppBackup/rawJson.json.2018-10-17_102421.bak": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "/favicon.ico": "e48252bf75fc54729c78c8ae21ef5525fe0555a3",
-    "/index.html": "c6d8876e6054fb3f35d76343b10c8fdc478e4807",
+    "/index.html": "9e77857ed321c1aae17635f5ff59e216488418a7",
     "/main.9f5a346fd72e586465b3.js": "f79564c08f45b9daa782ebfd229957060c7e0903",
+    "/manifest.json": "1453ab715350fd2bfc0b2ca908c9d9dab3c71208",
     "/polyfills.2f4a59095805af02bd79.js": "8949bb1b1e302dda246f6ed9c2da703270360b1f",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
-    "/styles.6cb5b494add6c7ed582a.css": "6bcbd1916bead22524d7ef831e6cc86dec1932c4"
+    "/styles.36b83109d6509f2a1d66.css": "6bcbd1916bead22524d7ef831e6cc86dec1932c4"
   },
   "navigationUrls": [
     {
