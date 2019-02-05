@@ -9,11 +9,12 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.c4c95db72e4d6341e3d8.js",
+        "/main.27c9b66f540a54dc6893.js",
         "/manifest.json",
-        "/polyfills.7a0e6866a34e280f48e7.js",
+        "/polyfills.e3633a42d1123afc5fc9.js",
         "/runtime.a66f828dca56eeb90e02.js",
-        "/styles.6be1e09e408601391eed.css"
+        "/scripts.98b3462c4d7dcdb067db.js",
+        "/styles.0d2b5679a7e8a4fb5978.css"
       ],
       "patterns": []
     },
@@ -64,6 +65,7 @@
         "/assets/images/coach_icon_hover.png",
         "/assets/images/communicate-icon.png",
         "/assets/images/down_arrow.png",
+        "/assets/images/error.png",
         "/assets/images/fyba_logo.png",
         "/assets/images/fyba_logo_old.png",
         "/assets/images/game1.png",
@@ -95,8 +97,11 @@
         "/assets/images/share-icon.png",
         "/assets/images/share_icon.png",
         "/assets/images/team-icon.png",
+        "/assets/images/tick.png",
         "/assets/js/index.d.ts",
         "/assets/js/index.js",
+        "/assets/js/jquery-1.12.4.js",
+        "/assets/js/jquery.bootstrap.js",
         "/assets/nppBackup/rawJson.json.2018-10-17_102421.bak"
       ],
       "patterns": []
@@ -146,6 +151,7 @@
     "/assets/images/coach_icon_hover.png": "59862cf7d71d9d07679b56d55bcedb5dc313b429",
     "/assets/images/communicate-icon.png": "f914cecd0dbd7686774d768a70808cd114ec8780",
     "/assets/images/down_arrow.png": "03592f9ba7facc03f6760d339f26a96dc0ff12a3",
+    "/assets/images/error.png": "fc9f55c4fbfdff3f9e120e0c9e4647390aa45129",
     "/assets/images/fyba_logo.png": "47c4150eeedf005e274db41407cc4295d4ac8eaf",
     "/assets/images/fyba_logo_old.png": "da1218a17c30f4aa88a01638e6966d97e9aabf78",
     "/assets/images/game1.png": "7a9a5c74c24d120722a0420b0f61a1692abd6654",
@@ -177,16 +183,20 @@
     "/assets/images/share-icon.png": "35139ddf662fc87bcc0b4cbf119d35def28d5b4c",
     "/assets/images/share_icon.png": "86c0f858ea4d719ebd4c0c7a37123d691e13b768",
     "/assets/images/team-icon.png": "d45a426436055253b415663ddfe436728a06d988",
+    "/assets/images/tick.png": "c5bf4cb0ecaced8e88d9b4bbcc26e1e2f9b0262d",
     "/assets/js/index.d.ts": "cedb954e6a6c2a5560f4b901d97bdd11eba410e6",
     "/assets/js/index.js": "03cc24facc392f5b87fe56d54431944e4f08fbe2",
+    "/assets/js/jquery-1.12.4.js": "567273b96aa7ceabd9afe987a78d05d6045b00f9",
+    "/assets/js/jquery.bootstrap.js": "276815c8946890a868e316bd7fa2975fd0d4213d",
     "/assets/nppBackup/rawJson.json.2018-10-17_102421.bak": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "/favicon.ico": "e48252bf75fc54729c78c8ae21ef5525fe0555a3",
-    "/index.html": "6427318ed9ae2ae6eaf659f204ceadc86867b55f",
-    "/main.c4c95db72e4d6341e3d8.js": "f592e193936507f855da256d377803bb4fcacd8b",
+    "/index.html": "112bb5793fb9e218aa03b84d8632b4f4856dd040",
+    "/main.27c9b66f540a54dc6893.js": "bb41629b4cb26ded292e283d0a2e7e3cc4c1be11",
     "/manifest.json": "1453ab715350fd2bfc0b2ca908c9d9dab3c71208",
-    "/polyfills.7a0e6866a34e280f48e7.js": "9f0b8341c0a0caec1581da2f255eb5dbb8e12303",
+    "/polyfills.e3633a42d1123afc5fc9.js": "5261a4729f780dd900641be94bd321182959641a",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
-    "/styles.6be1e09e408601391eed.css": "e960e75f0ffddd014b3b4e27f78da64080b397b8"
+    "/scripts.98b3462c4d7dcdb067db.js": "02e2c99bdef06f494753fc10e0d978b3b7d394b2",
+    "/styles.0d2b5679a7e8a4fb5978.css": "2e26a9a3884cfd36b0c3814ea93eabe3ad49e29e"
   },
   "navigationUrls": [
     {
