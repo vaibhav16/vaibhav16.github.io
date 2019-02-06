@@ -4,24 +4,24 @@
   "assetGroups": [
     {
       "name": "app",
-      "installMode": "prefetch",
-      "updateMode": "prefetch",
+      "installMode": "lazy",
+      "updateMode": "lazy",
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.27c9b66f540a54dc6893.js",
+        "/main.c912b5b6fd1ea7f88291.js",
         "/manifest.json",
         "/polyfills.e3633a42d1123afc5fc9.js",
         "/runtime.a66f828dca56eeb90e02.js",
         "/scripts.98b3462c4d7dcdb067db.js",
-        "/styles.0d2b5679a7e8a4fb5978.css"
+        "/styles.74495498901db66209f9.css"
       ],
       "patterns": []
     },
     {
       "name": "assets",
       "installMode": "lazy",
-      "updateMode": "prefetch",
+      "updateMode": "lazy",
       "urls": [
         "/assets/bootstrap.css",
         "/assets/bootstrap.js",
@@ -190,13 +190,13 @@
     "/assets/js/jquery.bootstrap.js": "276815c8946890a868e316bd7fa2975fd0d4213d",
     "/assets/nppBackup/rawJson.json.2018-10-17_102421.bak": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "/favicon.ico": "e48252bf75fc54729c78c8ae21ef5525fe0555a3",
-    "/index.html": "112bb5793fb9e218aa03b84d8632b4f4856dd040",
-    "/main.27c9b66f540a54dc6893.js": "bb41629b4cb26ded292e283d0a2e7e3cc4c1be11",
+    "/index.html": "a230eff49fc785213ebc5d4ca37327a962ee97fe",
+    "/main.c912b5b6fd1ea7f88291.js": "d412ec03c6f4d9523c3c3b6bc417785df11781ad",
     "/manifest.json": "1453ab715350fd2bfc0b2ca908c9d9dab3c71208",
     "/polyfills.e3633a42d1123afc5fc9.js": "5261a4729f780dd900641be94bd321182959641a",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/scripts.98b3462c4d7dcdb067db.js": "02e2c99bdef06f494753fc10e0d978b3b7d394b2",
-    "/styles.0d2b5679a7e8a4fb5978.css": "2e26a9a3884cfd36b0c3814ea93eabe3ad49e29e"
+    "/styles.74495498901db66209f9.css": "94f7cb7062d9feae16af9326a326316230652562"
   },
   "navigationUrls": [
     {
