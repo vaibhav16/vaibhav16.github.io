@@ -4,7 +4,7 @@
   "assetGroups": [
     {
       "name": "app",
-      "installMode": "prefetch",
+      "installMode": "lazy",
       "updateMode": "lazy",
       "urls": [
         "/favicon.ico",
@@ -20,7 +20,7 @@
     },
     {
       "name": "assets",
-      "installMode": "prefetch",
+      "installMode": "lazy",
       "updateMode": "lazy",
       "urls": [
         "/assets/bootstrap.css",
