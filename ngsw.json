@@ -107,7 +107,20 @@
       "patterns": []
     }
   ],
-  "dataGroups": [],
+  "dataGroups": [
+    {
+      "name": "posts",
+      "patterns": [
+        "https:\\/\\/fybaservice\\.sapplesystems\\.com\\/[^/]*",
+        "https:\\/\\/mobile\\.folsomyouthbasketball\\.com\\/[^/]*"
+      ],
+      "strategy": "freshness",
+      "maxSize": 5,
+      "maxAge": 7200000,
+      "timeoutMs": 30000,
+      "version": 1
+    }
+  ],
   "hashTable": {
     "/assets/bootstrap.css": "03eb74c8279975cad68840a14a21a90bda9ab39d",
     "/assets/bootstrap.js": "474b25cebd06d57a38090c6716d5dfaa5591baad",
