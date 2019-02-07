@@ -4,12 +4,12 @@
   "assetGroups": [
     {
       "name": "app",
-      "installMode": "lazy",
+      "installMode": "prefetch",
       "updateMode": "lazy",
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.3af8740227e8960b451f.js",
+        "/main.b13fbf82d8fdd2d292e8.js",
         "/manifest.json",
         "/polyfills.e3633a42d1123afc5fc9.js",
         "/runtime.a66f828dca56eeb90e02.js",
@@ -20,7 +20,7 @@
     },
     {
       "name": "assets",
-      "installMode": "lazy",
+      "installMode": "prefetch",
       "updateMode": "lazy",
       "urls": [
         "/assets/bootstrap.css",
@@ -115,7 +115,7 @@
         "https:\\/\\/mobile\\.folsomyouthbasketball\\.com\\/[^/]*"
       ],
       "strategy": "freshness",
-      "maxSize": 5,
+      "maxSize": 10,
       "maxAge": 7200000,
       "timeoutMs": 30000,
       "version": 1
@@ -203,8 +203,8 @@
     "/assets/js/jquery.bootstrap.js": "276815c8946890a868e316bd7fa2975fd0d4213d",
     "/assets/nppBackup/rawJson.json.2018-10-17_102421.bak": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "/favicon.ico": "e48252bf75fc54729c78c8ae21ef5525fe0555a3",
-    "/index.html": "1c45671ce058d951badd34e03e9fcbe59226fb2a",
-    "/main.3af8740227e8960b451f.js": "1af2a18ca7d03b1e8a9fc8142455e175d107dce2",
+    "/index.html": "d8b7da45ab83dd7154007906ecee6b560ad20369",
+    "/main.b13fbf82d8fdd2d292e8.js": "374962e9a4c318b18d2fb44d5dee5e6e5763cbe4",
     "/manifest.json": "1453ab715350fd2bfc0b2ca908c9d9dab3c71208",
     "/polyfills.e3633a42d1123afc5fc9.js": "5261a4729f780dd900641be94bd321182959641a",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
