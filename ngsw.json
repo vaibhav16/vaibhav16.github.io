@@ -9,7 +9,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.9c7d95db60dea187ba15.js",
+        "/main.7d5bc8a9f10e4343bb5a.js",
         "/manifest.json",
         "/polyfills.e3633a42d1123afc5fc9.js",
         "/runtime.a66f828dca56eeb90e02.js",
@@ -116,7 +116,7 @@
       ],
       "strategy": "freshness",
       "maxSize": 10,
-      "maxAge": 7200000,
+      "maxAge": 1800000,
       "timeoutMs": 30000,
       "version": 1
     }
@@ -203,8 +203,8 @@
     "/assets/js/jquery.bootstrap.js": "276815c8946890a868e316bd7fa2975fd0d4213d",
     "/assets/nppBackup/rawJson.json.2018-10-17_102421.bak": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "/favicon.ico": "e48252bf75fc54729c78c8ae21ef5525fe0555a3",
-    "/index.html": "10238b6abea1bc3b14376c62e354adaef967be35",
-    "/main.9c7d95db60dea187ba15.js": "ef8f5323c22f1c929d00e6559527664572986d0e",
+    "/index.html": "203fcfaa760b16fe1bf7fae6991d0ce383d6ce6f",
+    "/main.7d5bc8a9f10e4343bb5a.js": "cd8003f552b7a883bdd51f27259bb158e49251c6",
     "/manifest.json": "1453ab715350fd2bfc0b2ca908c9d9dab3c71208",
     "/polyfills.e3633a42d1123afc5fc9.js": "5261a4729f780dd900641be94bd321182959641a",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
