@@ -9,12 +9,12 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.6e9b69d486ba774cecbc.js",
+        "/main.1fb132d587b8d10fe2a7.js",
         "/manifest.json",
         "/polyfills.e3633a42d1123afc5fc9.js",
         "/runtime.a66f828dca56eeb90e02.js",
         "/scripts.98b3462c4d7dcdb067db.js",
-        "/styles.75cc2adfbfa0a48fd4e1.css"
+        "/styles.81e8356025a28fa61f00.css"
       ],
       "patterns": []
     },
@@ -96,7 +96,7 @@
         "/assets/images/setup-icon.png",
         "/assets/images/share-icon.png",
         "/assets/images/share_icon.png",
-        "/assets/images/team-icon.png",
+        "/assets/images/team_icon.png",
         "/assets/images/tick.png",
         "/assets/js/index.d.ts",
         "/assets/js/index.js",
@@ -115,7 +115,7 @@
         "https:\\/\\/mobile\\.folsomyouthbasketball\\.com\\/[^/]*"
       ],
       "strategy": "freshness",
-      "maxSize": 2,
+      "maxSize": 1,
       "maxAge": 600000,
       "timeoutMs": 60000,
       "version": 1
@@ -195,7 +195,7 @@
     "/assets/images/setup-icon.png": "bc4f9caf8cc6448440a2ccf9b7a59187d81d7d18",
     "/assets/images/share-icon.png": "35139ddf662fc87bcc0b4cbf119d35def28d5b4c",
     "/assets/images/share_icon.png": "86c0f858ea4d719ebd4c0c7a37123d691e13b768",
-    "/assets/images/team-icon.png": "d45a426436055253b415663ddfe436728a06d988",
+    "/assets/images/team_icon.png": "d45a426436055253b415663ddfe436728a06d988",
     "/assets/images/tick.png": "c5bf4cb0ecaced8e88d9b4bbcc26e1e2f9b0262d",
     "/assets/js/index.d.ts": "cedb954e6a6c2a5560f4b901d97bdd11eba410e6",
     "/assets/js/index.js": "03cc24facc392f5b87fe56d54431944e4f08fbe2",
@@ -203,13 +203,13 @@
     "/assets/js/jquery.bootstrap.js": "276815c8946890a868e316bd7fa2975fd0d4213d",
     "/assets/nppBackup/rawJson.json.2018-10-17_102421.bak": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "/favicon.ico": "e48252bf75fc54729c78c8ae21ef5525fe0555a3",
-    "/index.html": "f5d89bd82b8d4b9802688a4ec5871ed8a3cd19a0",
-    "/main.6e9b69d486ba774cecbc.js": "d1336bc501597338a687db27dff9d083748feda2",
+    "/index.html": "878c630ca9d73154373da9470e35dbd2c384c438",
+    "/main.1fb132d587b8d10fe2a7.js": "11fd1181d580db5574308505d77f6ad7ce5f7a1a",
     "/manifest.json": "1453ab715350fd2bfc0b2ca908c9d9dab3c71208",
     "/polyfills.e3633a42d1123afc5fc9.js": "5261a4729f780dd900641be94bd321182959641a",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/scripts.98b3462c4d7dcdb067db.js": "02e2c99bdef06f494753fc10e0d978b3b7d394b2",
-    "/styles.75cc2adfbfa0a48fd4e1.css": "df4ed082c311c52847074dd410e6aec34e18a0d0"
+    "/styles.81e8356025a28fa61f00.css": "2512fb38c381ada0ba359706b4c58c8cd156b23a"
   },
   "navigationUrls": [
     {
